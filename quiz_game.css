@@ -1,0 +1,56 @@
+body
+{
+	background:linear-gradient(to right,  red 0%, purple 100%);
+	font-family: montserrat;
+	text-align: center;
+	padding: 5%;
+}
+
+.container
+{
+	color: white;
+	background-color: transparent;
+}
+
+#Welcome-banner
+{
+	font-size: 70pt;
+}
+
+#login-span
+{
+	height:600px;
+	width: 1500px;
+	text-align: center;
+	padding-top: 150px;
+	padding-left: 350px;
+	padding-right: 350px;
+	background: linear-gradient(to right, red, violet 100%);
+	border-radius: 10%;
+	border-color: darkcyan;
+	border-width: 10pt;
+	padding-bottom:  10%;
+}
+
+#Player1, #Player2
+{
+	background:linear-gradient(to right, grey 2%, white 100%);
+	height: 50%;
+	width: 110%;
+	padding: 2%;
+	border-radius: 4%;
+	margin: 2px;
+}
+
+#Login
+{
+	background:linear-gradient(to right, violet 0%, pink 100%);
+	color: blue;
+	height: 100px;
+	width: 500px;
+	border-radius: 20px;
+	border-color: pink; 
+	font-size: 20pt;
+	margin-top: 20px;
+}
+
